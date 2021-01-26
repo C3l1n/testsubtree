@@ -1,0 +1,4 @@
+jakis modulek
+:q
+:wq
+
