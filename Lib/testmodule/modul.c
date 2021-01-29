@@ -5,3 +5,4 @@ A teraz zmieniam
 kolejna zmiana
 i jeszcze jedna
 moja zmiana
+a teraz konflikt
