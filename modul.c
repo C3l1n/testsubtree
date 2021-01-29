@@ -3,3 +3,4 @@ jakis modulek
 :wq
 A teraz zmieniam
 kolejna zmiana
+i jeszcze jedna
